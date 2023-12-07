@@ -1,11 +1,10 @@
 #!/usr/bin/env python3
 """
     *******************************************************************************************
-    HashimotoBot.
-    Author: Ali Toori, Python Developer [Web-Automation Bot Developer | Web-Scraper Developer]
-    Profiles:
-        Upwork: https://www.upwork.com/freelancers/~011f08f1c849755c46
-        Fiver: https://www.fiverr.com/alitoori
+    HashimotoBot: Hashimoto Automation Bot
+    Author: Ali Toori, Python Developer [Bot Builder]
+    Website: https://boteaz.com
+    YouTube: https://youtube.com/@AliToori
     *******************************************************************************************
 """
 import os

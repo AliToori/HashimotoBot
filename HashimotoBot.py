@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
     *******************************************************************************************
-    HashimotoBot: 
+    HashimotoBot: Hashimoto Automation Bot
     Author: Ali Toori, Python Developer [Bot Builder]
     Website: https://boteaz.com
     YouTube: https://youtube.com/@AliToori
